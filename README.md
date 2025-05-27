@@ -1,7 +1,7 @@
-# blender-lib-win64_vc15
+# blender-lib-windows_x64
 
-This contains a packaged archive of the win64_vc15 libraries used to build the Blender fork Goo Engine.
+This contains a packaged archive of the lib-windows_x64 libraries used to build the Blender fork Goo Engine.
 
-This was done to prevent failed requests to the SVN by skipping that step.
+The main use will be to download, unpack, and cache for workflow builds.
 
 Check releases for the archive.
